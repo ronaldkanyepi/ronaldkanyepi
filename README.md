@@ -5,7 +5,7 @@
 ### -  Hello Internet  👋
 🌱My name is Ronald Nyasha Kanyepi. I'm really honoured to have you checking on my Profile. 
 
-### - 💬 About Me
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 I'm a junior developer with 1 year working experience. 
 
 + 🔭 I really love working with Java,Springboot & Angular.Currently I'm working on Springboot microservices Zinara Licensing App. Zimbabwe National Roads Administration [ZINARA] is a parastatal body set up under the Roads Act to collect and distribute funds for maintaining the country's road system. I'm also a certified [Java 11 Developer](https://www.credly.com/badges/0445290a-d427-491a-862e-8eda7d06c7d5?source=linked_in_profile) . 
