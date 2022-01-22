@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="cover" />
+<img width="100%" height = "250px" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80" alt="cover" />
 </div>
 
 ### -  Hello Internet  👋
-🌱My name is Ronald Nyasha Kanyepi. I'm really honoured to have you checking on my Profile. 
+🌱My name is Ronald Nyasha Kanyepi.Thank you so much for visiting my profile. Im really honoured 😄.
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 I'm a junior developer with 1 year working experience. 
