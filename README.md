@@ -16,6 +16,8 @@ I'm a junior developer with 1 year working experience.
 
 ![](https://komarev.com/ghpvc/?username=RONALD55)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RONALD55&layout=compact)](https://github.com/RONALD55/)
+
 <h2>How to reach me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://github.com/RONALD55'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'https://www.linkedin.com/in/ronald-nyasha-kanyepi-b6a904139'> <img width = '32px' align= 'center' style='margin:10px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
