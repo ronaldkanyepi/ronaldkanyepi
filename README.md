@@ -14,6 +14,7 @@ I'm a junior developer with 1 year working experience.
 
 + 🔭 For web apps I usually prefer Laravel & Livewire. There are some repos I have made public to help out some entry level & intermidiate developers out there. 
 
+![](https://komarev.com/ghpvc/?username=RONALD55)
 
 <h2>How to reach me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://github.com/RONALD55'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
