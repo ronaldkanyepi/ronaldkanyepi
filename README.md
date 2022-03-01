@@ -19,10 +19,11 @@ I'm a junior developer with 1 year working experience.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RONALD55&layout=compact)](https://github.com/RONALD55/)
 
 <h2>How to reach me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://github.com/RONALD55'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'https://www.linkedin.com/in/ronald-nyasha-kanyepi-b6a904139'> <img width = '32px' align= 'center' style='margin:10px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
+<p><a href='https://github.com/RONALD55' target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/nyasha_annatoth" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href='https://www.linkedin.com/in/ronald-nyasha-kanyepi-b6a904139' target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
+ 
 
 <!--
 **RONALD55/RONALD55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
