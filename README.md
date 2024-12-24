@@ -1,9 +1,12 @@
 <div align="center">
     <p>
         <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
-        [![](https://visitcount.itsvg.in/api?id=ronaldkanyepi&icon=0&color=0)](https://visitcount.itsvg.in)
+     
     </p>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=ronaldkanyepi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 # 💫 About Me:
