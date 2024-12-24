@@ -106,9 +106,10 @@ Feel free to explore my work and reach out if you're interested in collaborating
   </details>
 
   <details>
-   <summary>Data Visualization</summary>
+  <summary>Data Visualization</summary>
+    
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
-   </details>
+  </details>
 
 
 ## 📊 GitHub Stats:
