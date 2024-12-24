@@ -10,7 +10,11 @@
 
 
 # 💫 About Me:
-I’m a data enthusiast and a student exploring data science, data engineering, and prescriptive analytics. I enjoy working on projects that turn data into valuable insights and am always eager to learn and grow in the field.
+I’m a data enthusiast and a student passionate about exploring the world of data science, data engineering, and prescriptive analytics. I thrive on solving real-world problems by turning raw data into actionable insights.
+
+Always eager to learn, I enjoy experimenting with new tools and technologies to expand my knowledge and skills. As I continue to grow in the field, I’m focused on developing innovative solutions that have a meaningful impact.
+
+Feel free to explore my work and reach out if you're interested in collaborating or discussing exciting data-driven projects!
 
 
 ## 🌐 Socials:
