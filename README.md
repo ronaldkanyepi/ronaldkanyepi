@@ -38,7 +38,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
   ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
   ![ApacheCassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) 
-  ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white)
+  ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white)
   </details>
 
   <details open>
