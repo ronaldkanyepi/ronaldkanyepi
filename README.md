@@ -1,12 +1,12 @@
 <div align="center">
     <p>
         <img src="URL_OF_YOUR_GIF.gif" alt="Descriptive Text for the GIF" />
+        [![](https://visitcount.itsvg.in/api?id=ronaldkanyepi&icon=0&color=0)](https://visitcount.itsvg.in)
     </p>
 </div>
 
 
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=ronaldkanyepi&icon=0&color=0)](https://visitcount.itsvg.in)
 I’m a data enthusiast and a student exploring data science, engineering, and prescriptive analytics. I enjoy working on projects that turn data into valuable insights and am always eager to learn and grow in the field.
 
 
