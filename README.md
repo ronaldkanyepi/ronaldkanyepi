@@ -32,8 +32,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
 
 ---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
 
