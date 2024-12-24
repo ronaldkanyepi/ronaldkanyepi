@@ -58,10 +58,10 @@ Feel free to explore my work and reach out if you're interested in collaborating
   <details open>
   <summary>Programming Languages</summary>
   
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+  ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
   </details>
   
