@@ -20,7 +20,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   <details open>
   <summary>Cloud Platforms</summary>
   
-  ![Amazon AWS](https://img.shields.io/badge/AmazonAWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+  ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
   ![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
@@ -39,6 +39,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
   ![ApacheCassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) 
   ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white)
+  ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8F62FF?style=flat&logo=amazon-redshift&logoColor=white)
   </details>
 
   <details open>
