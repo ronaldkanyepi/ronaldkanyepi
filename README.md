@@ -1,4 +1,4 @@
-![Typing Text](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=1000&lines=Hello.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&multiline=true&width=900&height=100&lines=Hey+there+!+My+name+is+Ronald+Nyasha+Kanyepi.)](https://git.io/typing-svg)
 
 
 [![](https://visitcount.itsvg.in/api?id=ronaldkanyepi&icon=0&color=0)](https://visitcount.itsvg.in)
