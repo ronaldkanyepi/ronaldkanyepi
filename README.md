@@ -14,13 +14,24 @@ I'm a junior developer with 1 year working experience.
 
 + 🔭 For web apps I usually prefer Laravel & Livewire. There are some repos I have made public to help out some entry level & intermidiate developers out there. 
 
-![](https://komarev.com/ghpvc/?username=ronaldkanyepi)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldkanyepi&layout=compact)](https://github.com/ronaldkanyepi/)
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/ronaldkanyepi/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/ronaldkanyepi/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 <h2>How to reach me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p><a href='https://github.com/RONALD55' target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/nyasha_annatoth" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href='https://www.linkedin.com/in/ronald-nyasha-kanyepi-b6a904139' target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
+
+
+
 
 
