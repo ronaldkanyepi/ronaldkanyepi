@@ -33,11 +33,11 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
   ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
-  ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) 
+  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+  ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
+  ![ApacheCassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) 
   ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white)
   </details>
 
