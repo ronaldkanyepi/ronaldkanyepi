@@ -23,7 +23,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
   ![Microsoft Azure](https://img.shields.io/badge/MicrosoftAzure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
   </details>
   
   <details open>
