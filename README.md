@@ -16,7 +16,7 @@ I'm a junior developer with 1 year working experience.
 
 ![](https://komarev.com/ghpvc/?username=RONALD55)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RONALD55&layout=compact)](https://github.com/RONALD55/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldkanyepi&layout=compact)](https://github.com/RONALD55/)
 
 <h2>How to reach me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
