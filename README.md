@@ -14,7 +14,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-nyasha-kanyepi/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-nyasha-kanyepi/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kanyepironald@gmail.com?subject=Hello&body=I%20would%20like%20to%20connect.)
 
 ## 💻 Tech Stack
   <details open>
