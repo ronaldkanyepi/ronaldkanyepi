@@ -18,18 +18,6 @@ Feel free to explore my work and reach out if you're interested in collaborating
 
 
 ## 💻 Tech Stack
-
-### Core Expertise
-- **Programming Languages:** Python, R, Java, Bash
-- **Cloud Platforms:** AWS, Azure, Google Cloud
-- **Big Data Tools:** Apache Spark, Kafka, Airflow
-- **Databases:** MongoDB, DynamoDB, PostgreSQL
-- **Machine Learning:** TensorFlow, PyTorch, scikit-learn
-- **Web Development:** FastAPI, Streamlit
-- **DevOps Tools:** Docker, Kubernetes, Swagger
-- **Message Queues & Web Servers:** RabbitMQ, Nginx, Apache
-
-### Detailed Tech Stack
 <details>
 <summary>Programming Languages</summary>
 
