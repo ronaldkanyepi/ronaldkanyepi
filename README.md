@@ -20,8 +20,8 @@ Feel free to explore my work and reach out if you're interested in collaborating
   <details open>
   <summary>Cloud Platforms</summary>
   
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
+  ![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+  ![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
   </details>
@@ -40,7 +40,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
   </details>
 
-  <details>
+  <details open>
   <summary>Programming Languages</summary>
   
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
@@ -50,7 +50,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
   </details>
   
-  <details>
+  <details open>
   <summary>Databases</summary>
   
   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) 
