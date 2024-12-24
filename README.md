@@ -113,7 +113,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
 ## 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ronaldkanyepi&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldkanyepi&layout=donut&theme=radical&hide=blade" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldkanyepi&layout=donut&theme=radical&hide=blade,php" alt="Stats" />
 </p>
 
 
