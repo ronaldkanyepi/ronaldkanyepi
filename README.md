@@ -21,7 +21,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   <summary>Cloud Platforms</summary>
   
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-FF9900?style=flat&logo=microsoftazure&logoColor=white) 
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
   ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
   </details>
