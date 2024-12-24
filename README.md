@@ -22,7 +22,6 @@ I’m a data enthusiast and a student exploring data science, engineering, and p
 # 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ronaldkanyepi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldkanyepi&theme=dark&hide_border=false" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldkanyepi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
