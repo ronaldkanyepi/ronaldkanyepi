@@ -53,6 +53,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   
   <details>
   <summary>Big Data Tools</summary> 
+    
   ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) 
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) 
   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) 
