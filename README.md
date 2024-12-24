@@ -27,20 +27,6 @@ Feel free to explore my work and reach out if you're interested in collaborating
   </details>
   
   <details open>
-  <summary>Big Data Tools</summary>
-  
-  ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) 
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) 
-  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) 
-  ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) 
-  ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=Apache%20Flink&logoColor=white) 
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) 
-  ![DBT](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) 
-  ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
-  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
-  </details>
-
-  <details open>
   <summary>Databases</summary>
   
   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) 
@@ -65,7 +51,18 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
   </details>
   
-
+  <details>
+  <summary>Big Data Tools</summary> 
+  ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) 
+  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) 
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) 
+  ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) 
+  ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=Apache%20Flink&logoColor=white) 
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) 
+  ![DBT](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) 
+  ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
+  </details>
   
   <details>
   <summary>Data Science & Machine Learning</summary>
