@@ -1,4 +1,4 @@
-![Typing Text](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ronald+Kanyepi%2C+Data+Enthusiast%2C+Student%2C+and+Aspiring+Data+Scientist.)
+![Typing Text](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=F7A8B8&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Ronald+Kanyepi%2C+Data+Enthusiast%2C+Student%2C+and+Aspiring+Data+Scientist.)
 
 
 [![](https://visitcount.itsvg.in/api?id=ronaldkanyepi&icon=0&color=0)](https://visitcount.itsvg.in)
