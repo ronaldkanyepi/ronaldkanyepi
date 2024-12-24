@@ -1,7 +1,8 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="cover" />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Ronald Nyasha Kanyepi!;" />
+</h1>
 ### -  Hello Internet  👋
 🌱My name is Ronald Nyasha Kanyepi.Thank you so much for visiting my profile. Im really honoured 😄.
 
