@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=42&center=true&vCenter=true&pause=1000&duration=4000&&width=1200&height=120&lines=Hey+there+👋+!+;+My+name+is+Ronald+N+Kanyepi.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=42&center=true&vCenter=true&pause=1000&duration=4000&&width=1200&height=120&lines=Hey+there+👋+!+;+My+name+is+Ronald+N.+Kanyepi.)](https://git.io/typing-svg)
 
 
 [![](https://visitcount.itsvg.in/api?id=ronaldkanyepi&icon=0&color=0)](https://visitcount.itsvg.in)
