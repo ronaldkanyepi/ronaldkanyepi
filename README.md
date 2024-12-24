@@ -37,7 +37,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   </details>
   
-  <details>
+  <details open>
   <summary>Big Data Tools</summary>
   
   ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) 
