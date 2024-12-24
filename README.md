@@ -18,7 +18,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
 
 
 ## 💻 Tech Stack
-  <details>
+  <details open>
   <summary>Programming Languages</summary>
   
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
@@ -28,7 +28,7 @@ Feel free to explore my work and reach out if you're interested in collaborating
   ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   </details>
   
-  <details>
+  <details open>
   <summary>Cloud Platforms</summary>
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
